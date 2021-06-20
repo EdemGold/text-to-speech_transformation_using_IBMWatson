@@ -1,0 +1,16 @@
+Gpu is called a graphical process unit they are also called graphic cards or video cards.
+Computers use them to render images, video, 2d and 3d animations. A gpu performs quick maths and calculations thereby
+freeing the CPU up tomperform important duties like
+processing information. Wher a cpu has only a few cores focused on sequential series processing(understanding instructions in a particular order)
+GPUs have thousands of smaller cores made for processing
+How GPUs assist in ML
+Even though CPUs and GPUs both serve as processing units and are capable of building neural networks but GPUs are better because of their ability to perform parrallel 
+computations which is neccesary in neural networks for calculating weights etc..
+popular free GPUs
+now getting a GPU for something like practice etc. isn't feasible so it is better you use free server rendered GPUs
+and the most easiest to use out there are from kaggle, Gooogle COLLAB. But if you want to get your own there are a lot of low end ones in the market such as:
+NVIDIA, GT740M, VRAM etc.
+(collab link), kaggle(link).
+Best situations to use GPUs:
+when you are working with big data, when you are working with complex ML problems that require deep learning., when you are managing larger and more complex tasks which require scalability.
+  
